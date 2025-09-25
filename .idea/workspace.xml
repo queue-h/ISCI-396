@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9ce9fd6-5e83-425d-ba21-8775129680d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/linear_regression/classwork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_sets/Problem_Set_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem_sets/Problem_Set_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
       <recent name="$USER_HOME$/Downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_visualization/data" />
       <recent name="$PROJECT_DIR$/data_visualization" />
       <recent name="$PROJECT_DIR$/statistics" />
