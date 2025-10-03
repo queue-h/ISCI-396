@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9ce9fd6-5e83-425d-ba21-8775129680d8" name="Changes" comment="" />
+    <list default="true" id="c9ce9fd6-5e83-425d-ba21-8775129680d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/overfitting/Class_6_Part_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/overfitting/Class_6_Part_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_sets/Problem_Set_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem_sets/Problem_Set_3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
