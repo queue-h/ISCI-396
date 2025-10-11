@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c9ce9fd6-5e83-425d-ba21-8775129680d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_visualization/Class_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_visualization/Class_3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decision_trees/Class_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/decision_trees/Class_7.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problem_sets/Problem_Set_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem_sets/Problem_Set_4.ipynb" afterDir="false" />
     </list>
@@ -51,11 +52,11 @@
       <recent name="$USER_HOME$/Downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_visualization" />
       <recent name="$PROJECT_DIR$/decision_trees" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_visualization/data" />
-      <recent name="$PROJECT_DIR$/data_visualization" />
     </key>
   </component>
   <component name="RunManager">
