@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c9ce9fd6-5e83-425d-ba21-8775129680d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_sets/Problem_Set_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem_sets/Problem_Set_4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +49,10 @@
       <recent name="$USER_HOME$/Downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_visualization" />
       <recent name="$PROJECT_DIR$/decision_trees" />
       <recent name="$PROJECT_DIR$/" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_visualization/data" />
     </key>
   </component>
@@ -84,7 +83,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
