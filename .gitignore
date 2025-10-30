@@ -1,5 +1,4 @@
-# project specific
-/data_visualization/data
+/k_means_cluster/GCC_geophysical.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
