@@ -1,5 +1,6 @@
 /k_means_cluster/GCC_geophysical.csv
 /problem_sets/Spellman.csv
+/problem_sets/hygdata_v42.csv.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
