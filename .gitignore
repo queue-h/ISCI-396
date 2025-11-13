@@ -1,6 +1,7 @@
 /k_means_cluster/GCC_geophysical.csv
 /problem_sets/Spellman.csv
-/problem_sets/hygdata_v42.csv.gz
+/problem_sets/hygdata_v42.csv
+/gaussian_mixture_kernel_density/Class_3_galaxies.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
