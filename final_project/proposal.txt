@@ -1,0 +1,9 @@
+Do these factors impact meteorite location?
+    - Random forest regressor to create a relative importance graph.
+      If there is correlation, gradient boosting model that can predict meteorite location
+      with an R2 (or other relevant scoring method) of at least 0.85.
+
+Can I classify meteorites?
+    - Add stony, iron, and stony-iron classification to dataset
+    - Use a guassian mixture to see if there are any distinctions between the makeups
+      of the meteorites and their landing location
